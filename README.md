@@ -9,8 +9,15 @@
 
 - 📫 How to reach me **https://t.me/pikachuxaa**
 
+# My devices
+- Iphone XS max 64gb (main phone)
+- Ipad Air 2 64gb
+- Samsung Galaxy M31
+- Samsung Galaxy A10
+- Samsung Galaxy S4 (I9500)
+- Samsung Galaxy Note 3 (broken, exynos)
 
-# 💻 My Laptop
+## 💻 My Laptop
 - I use Asus Rog strix G15 (G512LU)
 - Specs:
 - CPU: Intel Core I7 10750H
