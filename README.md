@@ -9,6 +9,9 @@
 
 - 📫 How to reach me **https://t.me/pikachuxaa**
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
+
 # 📱 My devices
 - Iphone XS max 64gb (main phone)
 - Ipad Air 2 64gb
@@ -42,4 +45,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pachdomenic&show_icons=true&locale=en" alt="pachdomenic" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
