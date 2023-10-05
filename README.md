@@ -3,16 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachdomenic&label=Profile%20views&color=0e75b6&style=flat" alt="pachdomenic" /> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
+
+# 📔 My info
+
 - 🔭 I’m currently working on [A10s OFOX](https://github.com/pachdomenic/android_device_samsung_a10s)
 
 - 🌱 I’m currently learning **Android development**
 
 - 📫 How to reach me **https://t.me/pikachuxaa**
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
-
-# 📱 My devices
+## 📱 My devices
 - Iphone XS max 64gb (main phone)
 - Ipad Air 2 64gb
 - Samsung Galaxy M31
@@ -20,7 +21,7 @@
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
 
-## 💻 My Laptop
+### 💻 My Laptop
 - I use Asus Rog strix G15 (G512LU)
 - Specs:
 - CPU: Intel Core I7 10750H
