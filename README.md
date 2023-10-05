@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://t.me/pikachuxaa**
 
-# My devices
+# 📱 My devices
 - Iphone XS max 64gb (main phone)
 - Ipad Air 2 64gb
 - Samsung Galaxy M31
