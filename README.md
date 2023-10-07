@@ -7,7 +7,7 @@
 
 # 📔 My info
 
-- 🔭 I’m currently working on [A10s OFOX](https://github.com/pachdomenic/android_device_samsung_a10s)
+- 🔭 I’m currently working on [TukiKernel]
 
 - 🌱 I’m currently learning **Android development**
 
