@@ -26,8 +26,8 @@
 - I use Asus Rog strix G15 (G512LU)
 - Specs:
 - CPU: Intel Core I7 10750H
-- Gpu: Nvidia Geforce GTX 1660 TI (laptop)
-- Ram: 2x 16GB kingston Fury (32gb total)
+- GPU: Nvidia Geforce GTX 1660 TI (laptop)
+- RAM: 2x 16GB kingston Fury (32gb total)
 - Disk: 1 Kingston 1tb nvme
 - Disk: 1 WD 500gb nvme
 - Disk: 1 Samsung 500 usb ssd
