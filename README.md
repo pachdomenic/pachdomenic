@@ -14,8 +14,9 @@
 - 📫 How to reach me **https://t.me/pikachuxaa**
 
 ## 📱 My devices
-- Iphone XS max 64gb (main phone)
+- Iphone 13 Pro Max 256gb (main phone)
 - Ipad Air 2 64gb
+- Iphone XS max 64gb
 - Samsung Galaxy M31
 - Samsung Galaxy A31
 - Samsung Galaxy A10
