@@ -18,7 +18,6 @@
 - Ipad Air 2 64gb
 - Iphone XS max 64gb
 - Samsung Galaxy M31
-- Samsung Galaxy A31
 - Samsung Galaxy A10
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
