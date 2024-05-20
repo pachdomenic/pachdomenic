@@ -17,10 +17,12 @@
 - Iphone 13 Pro Max 256gb (main phone)
 - Ipad Air 2 64gb
 - Iphone XS max 64gb
-- Samsung Galaxy M31
+- Samsung Galaxy M31 (sold)
 - Samsung Galaxy A10
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
+- Xiaomi Mi A1 4/64 (tissot)
+- Xiaomi Pad 6 8/256 (pipa)
 
 ### 💻 My Laptop
 - I use Asus Rog strix G15 (G512LU)
