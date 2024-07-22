@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pachadomenic</h1>
-<h3 align="center">Just Ukranian 13y.o. developer</h3>
+<h3 align="center">Just Ukranian 14.o. developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachdomenic&label=Profile%20views&color=0e75b6&style=flat" alt="pachdomenic" /> </p>
 
@@ -15,6 +15,7 @@
 
 ## 📱 My devices
 - Iphone 13 Pro Max 256gb (main phone)
+- Xiaomi Pad 6 8/256 (pipa)
 - Ipad Air 2 64gb
 - Iphone XS max 64gb
 - Samsung Galaxy M31 (sold)
@@ -22,7 +23,7 @@
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
 - Xiaomi Mi A1 4/64 (tissot)
-- Xiaomi Pad 6 8/256 (pipa)
+
 
 ### 💻 My Laptop
 - I use Asus Rog strix G15 (G512LU)
