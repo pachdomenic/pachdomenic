@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 📫 How to reach me **https://t.me/pikachuxaa**
+- 📫 How to reach me **https://t.me/tu4wkl**
 
 ## 📱 My devices
 - Iphone 13 Pro Max 256gb (main phone)
@@ -34,6 +34,7 @@
 - Disk: 1 Kingston 1tb nvme
 - Disk: 1 WD 500gb nvme
 - Disk: 1 Samsung 500 usb ssd
+- OS: Debian Linux 12.6 
 
 
 <h3 align="left">Connect with me:</h3>
