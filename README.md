@@ -14,11 +14,9 @@
 - 📫 How to reach me **https://t.me/tu4wkl**
 
 ## 📱 My devices
-- Iphone 13 Pro Max 256gb (main phone)
+- Google Pixel 8 Pro 12/128 (main phone)
 - Xiaomi Pad 6 8/256 (pipa)
 - Ipad Air 2 64gb
-- Iphone XS max 64gb
-- Samsung Galaxy M31 (sold)
 - Samsung Galaxy A10
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
@@ -50,4 +48,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pachdomenic&show_icons=true&locale=en&layout=compact" alt="pachdomenic" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pachdomenic&show_icons=true&locale=en" alt="pachdomenic" /></p>
-
