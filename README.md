@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pachadomenic</h1>
-<h3 align="center">Just Ukranian 14.o. developer</h3>
+<h1 align="center">Hi 👋, I'm Tuki</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachdomenic&label=Profile%20views&color=0e75b6&style=flat" alt="pachdomenic" /> </p>
 
@@ -7,7 +6,7 @@
 
 # 📔 My info
 
-- 🔭 I’m currently working on TukiRom
+- 🔭 I’m currently working on Nothing
 
 - 🌱 I’m currently learning **Android development**
 
@@ -28,11 +27,11 @@
 - Specs:
 - CPU: Intel Core I7 10750H
 - GPU: Nvidia Geforce GTX 1660 TI (laptop)
-- RAM: 2x 16GB kingston Fury (32gb total)
+- RAM: 2x 16GB kingston Furry (32gb total)
 - Disk: 1 Kingston 1tb nvme
 - Disk: 1 WD 500gb nvme
 - Disk: 1 Samsung 500 usb ssd
-- OS: Debian Linux 12.6 
+- OS: Debian Linux 12.8
 
 
 <h3 align="left">Connect with me:</h3>
