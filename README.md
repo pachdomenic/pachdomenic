@@ -13,13 +13,16 @@
 - 📫 How to reach me **https://t.me/tu4wkl**
 
 ## 📱 My devices
-- Google Pixel 8 Pro 12/128 (main phone)
+- OnePlus 13 16/512 (main phone)
+- Google Pixel 8 Pro 12/128 (hardbricked)
 - Xiaomi Pad 6 8/256 (pipa)
+- Xiaomi Redmi Note 12 4G NFC 4/128
 - Ipad Air 2 64gb
 - Samsung Galaxy A10
 - Samsung Galaxy S4 (I9500)
 - Samsung Galaxy Note 3 (broken, exynos)
 - Xiaomi Mi A1 4/64 (tissot)
+- Nintendo Switch OLED (Kubuntu 22.04)
 
 
 ### 💻 My Laptop
@@ -31,7 +34,7 @@
 - Disk: 1 Kingston 1tb nvme
 - Disk: 1 WD 500gb nvme
 - Disk: 1 Samsung 500 usb ssd
-- OS: Debian Linux 12.8
+- OS: Arch Linux with hyprland :3
 
 
 <h3 align="left">Connect with me:</h3>
