@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Android development**
 
-- 📫 How to reach me **https://t.me/tu4wkl**
+- 📫 How to reach me **https://t.me/notatuki**
 
 ## 📱 My devices
 - OnePlus 13 16/512 (main phone)
