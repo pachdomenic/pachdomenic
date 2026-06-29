@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pachdomenic&label=Profile%20views&color=0e75b6&style=flat" alt="pachdomenic" /> </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
-
 # 📔 My info
 
 - 🔭 I’m currently working on Nothing
@@ -38,6 +36,10 @@
 - Disk: 1 WD 500gb nvme
 - Disk: 1 Samsung 500 usb ssd
 - OS: Arch Linux with hyprland :3
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
