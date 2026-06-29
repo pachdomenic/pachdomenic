@@ -10,33 +10,6 @@
 
 - 📫 How to reach me **https://t.me/notatuki**
 
-## 📱 My devices
-- Oppo Find X9 Pro CN 16/512 (main phone)
-- OnePlus 13 GLO 16/512 
-- Motorola razr 50 ultra 12/512
-- iPhone 15 Pro Max 8/512
-- Google Pixel 8 Pro 12/128 (hardbricked)
-- Xiaomi Pad 6 8/256 (pipa)
-- Xiaomi Redmi Note 12 4G NFC 4/128
-- Ipad Air 2 64gb
-- Samsung Galaxy A10
-- Samsung Galaxy S4 (I9500)
-- Samsung Galaxy Note 3 (broken, exynos)
-- Xiaomi Mi A1 4/64 (tissot)
-- Nintendo Switch OLED (Kubuntu 22.04)
-
-
-### 💻 My Laptop
-- I use Asus Rog strix G15 (G512LU)
-- Specs:
-- CPU: Intel Core I7 10750H
-- GPU: Nvidia Geforce GTX 1660 TI (laptop)
-- RAM: 2x 16GB kingston Furry (32gb total)
-- Disk: 1 Kingston 1tb nvme
-- Disk: 1 WD 500gb nvme
-- Disk: 1 Samsung 500 usb ssd
-- OS: Arch Linux with hyprland :3
-
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pachdomenic&" alt="pachdomenic" /></p>
