@@ -13,7 +13,10 @@
 - 📫 How to reach me **https://t.me/notatuki**
 
 ## 📱 My devices
-- OnePlus 13 16/512 (main phone)
+- Oppo Find X9 Pro CN 16/512 (main phone)
+- OnePlus 13 GLO 16/512 
+- Motorola razr 50 ultra 12/512
+- iPhone 15 Pro Max 8/512
 - Google Pixel 8 Pro 12/128 (hardbricked)
 - Xiaomi Pad 6 8/256 (pipa)
 - Xiaomi Redmi Note 12 4G NFC 4/128
