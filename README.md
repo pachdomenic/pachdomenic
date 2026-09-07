@@ -4,7 +4,7 @@
 
 # 📔 My info
 
-- 🔭 I’m currently working on Nothing
+- 🔭 I’m currently working on Private repos
 
 - 🌱 I’m currently learning **Android development**
 
